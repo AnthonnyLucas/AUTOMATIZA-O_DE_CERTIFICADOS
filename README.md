@@ -1,6 +1,3 @@
-Segue abaixo uma sugestão de README melhorado para o seu projeto:
-
----
 
 # Automação de Geração e Envio de Certificados
 
